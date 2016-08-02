@@ -22,17 +22,18 @@
     @extend %icon
     font-size: 24px
     line-height: 42px
-    color: #fff
-    background: $sidebar-bg
+    color: #474D5C
     overflow: hidden
     transition: transform .35s $time-function
     &:before
       @extend %icon-left
       float: left
       width: 50%
+      border: solid 2px #474D5C
     &:after
       @extend %icon-right
       float: left
       width: 50%
+      border: solid 2px #474D5C
   &.open > &-icons
     transform: translateX(50%)
