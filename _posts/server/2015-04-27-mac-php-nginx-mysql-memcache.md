@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac安装PHP+Nginx+MySQL+Memcache(详细版)
+title: Mac安装PHP+Nginx+MySQL+Memcache
 category: 服务器
 tags: Mac,Nginx,Memcache,php,Mysql
 keywords: Mac,Nginx,Memcache,php,Mysql

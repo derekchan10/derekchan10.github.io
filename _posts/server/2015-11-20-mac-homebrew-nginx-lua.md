@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homebrew安裝nginx_lua模塊（重新編譯Nginx）
+title: Homebrew安裝nginx_lua模塊
 category: 服务器
 tags: 服务器,Nginx,lua
 keywords: 服务器,Nginx,lua
