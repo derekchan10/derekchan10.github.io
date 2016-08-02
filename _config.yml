@@ -4,7 +4,6 @@ email: dchan0831@gmail.com
 description: DC，一个憧憬诗和远方的「伪」全栈工程师。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gitdc.com" # the base hostname & protocol for your site
-rss_url: /feed.xml
 author: Derek Chan
 
 
@@ -14,15 +13,11 @@ filter: 'category'
 
 
 # Social account
-# twitter:  http://weibo.com/207124240
-weibo:    207124240
+# twitter:  ID
+# weibo:    207124240
 github:   gitcdc
 # codepen:  username
 # dribbble: username
-
-# avatar and Favicon
-avatar: http://blog.gitdc.com/wp-content/uploads/avatars/1/1423400103-bpfull.jpg
-favicon: http://blog.gitdc.com/favicon.ico
 
 # Comment
 disqus_shortname: gitdc
