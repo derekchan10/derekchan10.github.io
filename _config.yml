@@ -1,33 +1,44 @@
-permalink: /:year/:month/:day/:title.html
-markdown: kramdown
-highlighter: rouge
-
-kramdown:
-  input: GFM
-
-# 作者信息
-author: 
-  name: GitDC
-  email: dchan0831@gmail.com
-  link: http://gitdc.com
-  weibo: http://weibo.com/207124240
-  github: http://github.com/gitcdc
-
-# 站点信息
+# Site settings
 title: GitDC | DC的随想录
-description: GitDC | DC的随想录
-url: http://www.gitdc.com
-rss_url: /pages/atom.xml
+email: dchan0831@gmail.com
+description: DC，一个憧憬诗和远方的「伪」全栈工程师。
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://gitdc.com" # the base hostname & protocol for your site
+rss_url: /feed.xml
+author: Derek Chan
 
-# avatar头像及Favicon
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+
+
+# Social account
+# twitter:  http://weibo.com/207124240
+weibo:    207124240
+github:   gitcdc
+# codepen:  username
+# dribbble: username
+
+# avatar and Favicon
 avatar: http://blog.gitdc.com/wp-content/uploads/avatars/1/1423400103-bpfull.jpg
 favicon: http://blog.gitdc.com/favicon.ico
 
-# google analytics 设置
-ga:
-  id: UA-73362052-1
-  url: gitdc.com
+# Comment
+disqus_shortname: gitdc
 
-# disqus 设置
-disqus:
-  shortname: gitdc
+
+# Google Analytics
+google_analytics: UA-73362052-1
+
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
