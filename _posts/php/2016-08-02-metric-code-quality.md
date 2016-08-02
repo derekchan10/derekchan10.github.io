@@ -21,7 +21,7 @@ description:
 
 举个例子：
 
-        if ((status &amp;&amp; done) || (notDone &amp;&amp; (numLines >= maxLines))) {
+        if ((status && done) || (notDone && (numLines >= maxLines))) {
             // code … 
         }
 
