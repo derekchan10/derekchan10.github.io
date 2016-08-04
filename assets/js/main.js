@@ -78,7 +78,7 @@ $(function() {
 
   // Search
   $('#search-input').on('input', function(e){
-    $('.toc-link').hide();
+    toc.hide();
     $('.toc-link:contains(' + this.value + ')').fadeIn(350);
   });
 
