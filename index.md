@@ -14,6 +14,6 @@ DC，一个憧憬诗和远方的「伪」全栈工程师。
 
 工作邮箱：<dchan0831@gmail.com>
 
-## 博客平台
+公众号：DC随想录 
 
-这个博客通过 [Jekyll](http://jekyllrb.com/) 生成，部署在 [Github](https://github.com/gitcdc/gitcdc.github.io)，主题基于 [3-Jekyll](https://github.com/P233/3-Jekyll) 修改生成，非常感谢 [Peiwen Lu](https://github.com/P233) 开发出这么漂亮的主题，如果有任何改进意见，欢迎讨论。
+![DC随想录](http://blog.gitdc.com/wp-content/uploads/2016/09/qrcode.jpg)
