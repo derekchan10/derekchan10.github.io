@@ -16,4 +16,4 @@ DC，一个憧憬诗和远方的「伪」全栈工程师。
 
 公众号：DC随想录 
 
-![DC随想录](http://blog.gitdc.com/wp-content/uploads/2016/09/qrcode.jpg)
+<img src="http://blog.gitdc.com/wp-content/uploads/2016/09/qrcode.jpg" width="250"/>
