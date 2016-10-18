@@ -14,4 +14,4 @@ Fenng 曾说道：98% 的人在消费信息，只有 2% 的人在生产信息，
 
 公众号：DC随录 
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/09/qrcode.jpg" width="250"/>
+<img src="http://blog.gitdc.com/wp-content/uploads/2016/09/qrcode.jpg" alt="DC随录" style="width: 250px;"/>
