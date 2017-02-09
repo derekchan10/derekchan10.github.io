@@ -1,5 +1,6 @@
 ---
 layout: post
+title: GitDC
 ---
 
 ## 关于我
