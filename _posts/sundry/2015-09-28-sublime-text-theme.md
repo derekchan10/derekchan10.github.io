@@ -17,9 +17,9 @@ description:
 
 Material Theme，比默认主题闷骚了点。整个主题为我喜欢的扁平化设计，配色也没默认主题很鲜艳的色调，看着比较舒服。很多细节的设计优化都比默认主题要优秀，有兴趣的可以下载来看看，下面是截图和安装方法
 
-[<img class="alignnone wp-image-342" src="http://blog.gitdc.com/wp-content/uploads/2015/09/687474703a2f2f657175696e75736f63696f2e6769746875622e696f2f6d6174657269616c2d7468656d652f6173736574732f6d6174657269616c7468656d652e706e67-1024x618.png" alt="687474703a2f2f657175696e75736f63696f2e6769746875622e696f2f6d6174657269616c2d7468656d652f6173736574732f6d6174657269616c7468656d652e706e67" width="500" height="302" />][1]
+[<img class="alignnone wp-image-342" src="http://img.gitdc.com/blog/2015/09/687474703a2f2f657175696e75736f63696f2e6769746875622e696f2f6d6174657269616c2d7468656d652f6173736574732f6d6174657269616c7468656d652e706e67-1024x618.png" alt="687474703a2f2f657175696e75736f63696f2e6769746875622e696f2f6d6174657269616c2d7468656d652f6173736574732f6d6174657269616c7468656d652e706e67" width="500" height="302" />][1]
 
-[<img class="alignnone wp-image-340" src="http://blog.gitdc.com/wp-content/uploads/2015/09/1.png" alt="1" width="500" height="484" />][2]
+[<img class="alignnone wp-image-340" src="http://img.gitdc.com/blog/2015/09/1.png" alt="1" width="500" height="484" />][2]
 
 安装方法：
 
@@ -42,7 +42,7 @@ Material Theme，比默认主题闷骚了点。整个主题为我喜欢的扁平
 [https://github.com/equinusocio/material-theme][4]
 
 
-[1]: http://blog.gitdc.com/wp-content/uploads/2015/09/687474703a2f2f657175696e75736f63696f2e6769746875622e696f2f6d6174657269616c2d7468656d652f6173736574732f6d6174657269616c7468656d652e706e67.png
-[2]: http://blog.gitdc.com/wp-content/uploads/2015/09/1.png
+[1]: http://img.gitdc.com/blog/2015/09/687474703a2f2f657175696e75736f63696f2e6769746875622e696f2f6d6174657269616c2d7468656d652f6173736574732f6d6174657269616c7468656d652e706e67.png
+[2]: http://img.gitdc.com/blog/2015/09/1.png
 [3]: https://github.com/equinusocio/material-theme/releases/tag/v1.8.7
 [4]: https://github.com/equinusocio/material-theme

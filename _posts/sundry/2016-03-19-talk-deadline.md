@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/03/c8f9510c04780fdf159167a2f68a43fa.jpg" alt="题图" />
+<img src="http://img.gitdc.com/blog/2016/03/c8f9510c04780fdf159167a2f68a43fa.jpg" alt="题图" />
 
 当DeadLine到来时，我们往往能发挥出极强大的战斗力。
 

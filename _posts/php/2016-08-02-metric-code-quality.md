@@ -7,7 +7,7 @@ keywords: php,代码质量
 description: 
 ---
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/08/f4b596e6fbb97884148c4b6bd6f269d6.jpg" alt="如何度量程序的复杂度" />
+<img src="http://img.gitdc.com/blog/2016/08/f4b596e6fbb97884148c4b6bd6f269d6.jpg" alt="如何度量程序的复杂度" />
 
 在 PHP 程序中，类、方法（子程序）、函数是最常见的形态，在平时的编程里开发者时常会对代码的复杂度做度量，简洁抑或复杂，都是自己凭着主观意识来评判，经验丰富的开发者可能会有自己的评判标准，但一些经验尚浅的开发者写出来的代码可能在 Code Review 阶段就得返修几次，因为他们还没有能对自己的代码进行质量评测的能力，或者说没有可以量化的标准给他们参考，那么量化的参考标准是什么呢？
 

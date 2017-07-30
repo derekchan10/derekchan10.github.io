@@ -7,7 +7,7 @@ keywords: php,Laravel
 description: 
 ---
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/07/laravel-auth-tutorial.png" alt="使用 Laravel 框架是什么样的体验" />
+<img src="http://img.gitdc.com/blog/2016/07/laravel-auth-tutorial.png" alt="使用 Laravel 框架是什么样的体验" />
 
 在程序界的远古时期，大神们手持键盘敲着机器语言跟庞大的机器打着交道，那时候机器语言还没有语义和语法，更没有封装的概念。后来进化到汇编语言，C语言时期，基础的功能特性就已经能满足当时的需求了，比如函数封装使其得于复用，但随着计算机的普及，操作系统的到来，面向过程语言已无法继续满足复杂的需求。
 

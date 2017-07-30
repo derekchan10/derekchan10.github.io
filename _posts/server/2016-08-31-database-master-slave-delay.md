@@ -13,7 +13,7 @@ description:
 
 这个延迟只有10点、11点、12点的整点前5分钟到整点后15分钟出现，也就是10点到12点每个整点左右的20分钟，DBA 折腾了一个上午没见什么效果（DBA 刚接手我们部门的 DB，不熟悉业务，后面 DBA 帮了我不少忙），这个「任务」就“幸运的”到我手上了。
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/08/tmp6a014e7c-1024x234.png" alt="db" />
+<img src="http://img.gitdc.com/blog/2016/08/tmp6a014e7c-1024x234.png" alt="db" />
 
 先来简单谈谈延迟300s的严重性，部门主要业务是汽车交易平台，从机延迟300s相当于商家刊登了一笔物件，5分钟后才能看到，我们平台上的活跃商家已经有上千位，延迟会让商家质疑平台的功能可用性，对他们和客服的影响可能不亚于down机的情况。
 
@@ -41,7 +41,7 @@ description:
 
 MySQL 的语句是记录在 binlog下面的，想查出问题就必须从 binlog 入手，从 binlog 中查到时间`09:50`到`10:03`，物件搜寻表`t_search***_item**`的`delete`和`update`语句数量分别有3W+和1W＋，排数量列表首位。
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/08/sql.png" alt="sql" />
+<img src="http://img.gitdc.com/blog/2016/08/sql.png" alt="sql" />
 
 继续查到语句所在的类，是个一分钟跑一次的自动脚本，这个脚本因为历史遗留问题，逻辑已经复杂到无法细看的程度，找到相关的同事了解后，代码逻辑里就算是为了方便直接`delete`后再`insert`数据，也不可能会短时间产生这么多`delete`操作。已经嗅到真相味道的我欢快的回到自己座位上翻着 Git 时间线，试图找出导致这次事件的真凶，为我逝去的一天光阴画上圆满的句号......
 

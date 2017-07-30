@@ -13,7 +13,7 @@ description:
 
 在交流中同事推荐Evernote来做月计划，把每年的目标分割出来，先贴张图。
 
-[<img class="alignnone wp-image-424" src="http://blog.gitdc.com/wp-content/uploads/2016/01/2016年1月安排2-928x1024.png" alt="2016年1月安排" width="600" height="662" />][1]
+[<img class="alignnone wp-image-424" src="http://img.gitdc.com/blog/2016/01/2016年1月安排2-928x1024.png" alt="2016年1月安排" width="600" height="662" />][1]
 
 这是我再作改良的版本，Evernote有个很方便的功能就是勾选框，当我完成某个目标的时候就勾选，这样就很清楚地看到我一个月来做了什么事情，从去年五月份用到现在，让我对目标有了更清楚的检视，一些不足和进步也能清楚的看到，间接的帮助我完成年度目标，所以在此推荐出来。
 
@@ -26,4 +26,4 @@ description:
 3、目标可详细到具体事务，这样完成周期不会太长，降低难度（目标越多，月尾总结的时候看着舒服）
 
 
-[1]: http://blog.gitdc.com/wp-content/uploads/2016/01/2016年1月安排2.png
+[1]: http://img.gitdc.com/blog/2016/01/2016年1月安排2.png

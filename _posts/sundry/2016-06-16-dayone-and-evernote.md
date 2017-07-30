@@ -7,7 +7,7 @@ keywords: Evernote,Day One
 description: 
 ---
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/06/IFTTT_DayOneEvernote-1024x331.png" alt="Evernote vs Day One" />
+<img src="http://img.gitdc.com/blog/2016/06/IFTTT_DayOneEvernote-1024x331.png" alt="Evernote vs Day One" />
 
 很久之前就想写这篇文章，起了个标题放在博客后台就没去搭理过。事实上自从开通博客后，有些什么想法或者想说的，都会跑到博客后台先记下草稿，待理顺后才发布。后来发现打开博客后台的步骤太过繁杂，有时候打开后想写的欲望也没那么强烈了。
 

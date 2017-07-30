@@ -11,13 +11,13 @@ description:
 
 但在IE中，ajax會自動跳到error方法中，打開f12調試，返回錯誤為（No Transport），苦惱了我很久
 
-[<img class="alignnone wp-image-36 size-full" src="http://blog.gitdc.com/wp-content/uploads/2015/01/1.png" alt="" width="669" height="173" />][1]
+[<img class="alignnone wp-image-36 size-full" src="http://img.gitdc.com/blog/2015/01/1.png" alt="" width="669" height="173" />][1]
 
 解決方法：
 
 在ajax前面添加 jQuery.support.cors = true;然後神奇的事情就發生了，可以跨域了！！！
 
-[<img class="alignnone size-medium wp-image-35" src="http://blog.gitdc.com/wp-content/uploads/2015/01/RTX截圖未命名2-300x193.jpg" alt="RTX截圖未命名" width="300" height="193" />][2]
+[<img class="alignnone size-medium wp-image-35" src="http://img.gitdc.com/blog/2015/01/RTX截圖未命名2-300x193.jpg" alt="RTX截圖未命名" width="300" height="193" />][2]
 
 ---
 
@@ -26,5 +26,5 @@ description:
  
 
 
-[1]: http://blog.gitdc.com/wp-content/uploads/2015/01/1.png
-[2]: http://blog.gitdc.com/wp-content/uploads/2015/01/RTX截圖未命名2.jpg
+[1]: http://img.gitdc.com/blog/2015/01/1.png
+[2]: http://img.gitdc.com/blog/2015/01/RTX截圖未命名2.jpg

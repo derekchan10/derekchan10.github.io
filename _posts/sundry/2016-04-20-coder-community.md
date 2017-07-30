@@ -7,7 +7,7 @@ keywords: 程序员,江湖
 description: 
 ---
 
-<img src="http://blog.gitdc.com/wp-content/uploads/2016/04/123123.jpg" alt="http://blog.gitdc.com/wp-content/uploads/2016/04/123123.jpg" />
+<img src="http://img.gitdc.com/blog/2016/04/123123.jpg" alt="http://img.gitdc.com/blog/2016/04/123123.jpg" />
 
 有人的地方就有江湖。
 
